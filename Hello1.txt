@@ -4,4 +4,5 @@ Hello, New world. (^^)/
 Happy, Helloween. (^^)/
 
 Local Branch for pull request.
+The quick blown fox jumped over lazy dogs.
 [EOF]
