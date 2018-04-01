@@ -1,9 +1,6 @@
 Hello, world.
 Hello, New, world.
-<<<<<<< HEAD
-
 Hello, Hello, Hello.
 /(^^)//(^^)//(^^)/
 =======
 Hello, New world. (^^)/
->>>>>>> c02f785ef65eb84965ee31ee7c0c1f080e1f164f
